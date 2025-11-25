@@ -1,0 +1,36 @@
+[
+  {
+    "listing_id": "CREA-1001",
+    "mls_number": "R1234567",
+    "address": "123 Main St, Vancouver, BC",
+    "list_price": 1250000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "property_type": "Apartment",
+    "description": "Bright 3 bed condo with ocean view, updated kitchen, and large balcony.",
+    "features": [
+      "ocean view",
+      "updated kitchen",
+      "balcony",
+      "in-suite laundry",
+      "assigned parking"
+    ]
+  },
+  {
+    "listing_id": "CREA-1002",
+    "mls_number": "R9876543",
+    "address": "456 Oak St, Burnaby, BC",
+    "list_price": 950000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "property_type": "Townhouse",
+    "description": "Modern townhouse near SkyTrain, open concept living, and private patio.",
+    "features": [
+      "near SkyTrain",
+      "open concept",
+      "private patio",
+      "2 parking",
+      "pet friendly"
+    ]
+  }
+]
