@@ -126,7 +126,7 @@ Principal Software Engineer • AI Engineering • DDD • MLS Systems
     
 -   LinkedIn: **[https://www.linkedin.com/in/alirezarahmani/](https://www.linkedin.com/in/alirezarahmani/)**
     
--   Personal Website: **[https://alirezarahmani.com](https://alirezarahmani.com/)**
+-   Personal Website: **[https://alireza.engineer](https://alireza.engineer/)**
     
 
 Alireza writes about:
