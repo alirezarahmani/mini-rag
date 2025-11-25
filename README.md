@@ -124,7 +124,7 @@ Principal Software Engineer • AI Engineering • DDD • MLS Systems
 
 -   Substack: **[https://nidly.substack.com](https://nidly.substack.com/)**
     
--   LinkedIn: **[https://www.linkedin.com/in/alirezarahmani/](https://www.linkedin.com/in/rahmanikhalli/)**
+-   LinkedIn: **[https://www.linkedin.com/in/rahmanikhalili/](https://www.linkedin.com/in/rahmanikhalili/)**
     
 -   Personal Website: **[https://alireza.engineer](https://alireza.engineer/)**
     
