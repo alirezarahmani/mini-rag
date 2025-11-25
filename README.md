@@ -6,7 +6,7 @@ A minimal yet practical RAG system built around **CREA MLS-style listings**, usi
 
 -   Python
     
--   FAISS (vector search)
+-   [FAISS](https://nidly.substack.com/p/what-is-faiss-building-your-own-zillow?r=a3p8i) (vector search)
     
 -   FastAPI
     
